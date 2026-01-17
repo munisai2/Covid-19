@@ -34,7 +34,5 @@ This project aims to classify medical images into three classes: normal, pneumon
 - First classify into normal and abnormal
 - Classify abnormal images into COVID and pneumonia
 
-## Presentation
-- PPT link: https://docs.google.com/presentation/d/1EmvPx9ZRjNIodjEkeXUtibDoFKXD5j7GrXeao1tpRck/edit?usp=sharing
 
 
